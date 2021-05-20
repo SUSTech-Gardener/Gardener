@@ -45,3 +45,7 @@ while True:
         time.sleep(1)
 ```
 
+> [树莓派引脚](https://blog.csdn.net/fm0517/article/details/80938606)
+>
+> [树莓派读取代码](https://blog.csdn.net/fm0517/article/details/80967569)
+
