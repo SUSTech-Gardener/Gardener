@@ -1,5 +1,16 @@
 # Gardener
 # Gardener for agricultural!!!
+## Sensors
+1. Camera: Realsense D435i
+2. Lidar: Livox avia
+3. Soilsensor
+## 硬件部分
+1. 履带车
+2. 喷头控制
+3. 车辆架子
+4. 云台
+5. 土壤传感器伸缩机构
+6. 电机部分
 ## 1. Prerequisties
 
 ### 1.1 Ubuntu and ROS
