@@ -48,7 +48,7 @@ The whole 3d solidworks model is in the [repository](https://github.com/SUSTech-
 # TODO 
 - [x] 硬件部分：小车的速度，转向控制，
 - [x] 杂草识别的模型，第八周结束需要搞完
-- [ ] SLAM和navigation
+- [x] SLAM和navigation
 - [x] 机械硬件结构搭建和喷头系统的构建
 - [x] 土壤检测器的插入设计
 - [ ] 最终的系统框架构建！！
