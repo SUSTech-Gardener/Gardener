@@ -1,5 +1,10 @@
 # Gardener
-# Gardener for agricultural!!!
+## Gardener for agricultural!!!
+
+The main repository of [SUSTech-Gardener](https://github.com/SUSTech-Gardener), which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
+
+The whole project has these parts. 
+
 ## Sensors
 1. Camera: Realsense D435i
 2. Lidar: Livox avia
@@ -11,20 +16,25 @@
 4. 云台
 5. 土壤传感器伸缩机构
 6. 电机部分
+7. 电路
+
+# Build and Run
+
 ## 1. Prerequisties
 
 ### 1.1 Ubuntu and ROS
+
 Ubuntu 64-bit 16.04 or 18.04. ROS Kinetic or Melodic. Follow [ROS Installation](http://wiki.ros.org/ROS/Installation).
 ### 1.2 Deep Learning requirements
 
-In this part, Using YOLO series to detect weed and crop. The learning model we also transfer to ROS package, it is very easy to use.
+In this part, Using YOLO V3 to detect weed and crop. The learning model we also transfer to ROS package, it is very easy to use.
 
 - ROS package:  https://github.com/SUSTech-Gardener/WeedDetection_ros
 - Without ROS: https://github.com/SUSTech-Gardener/WeedDetection
 
 ### 1.3 SLAM and other
 
-- [ ] Livox 的SLAM的部分
+- [x] (Livox 的SLAM的部分)[https://github.com/SUSTech-Gardener/car_relocalization]
 
 ## 2. Build Gardener
 
@@ -51,5 +61,7 @@ The whole 3d solidworks model is in the [repository](https://github.com/SUSTech-
 - [x] SLAM和navigation
 - [x] 机械硬件结构搭建和喷头系统的构建
 - [x] 土壤检测器的插入设计
-- [ ] 最终的系统框架构建！！
+- [x] 最终的系统框架构建！！
+
+# Acknowledgment
 
