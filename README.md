@@ -10,7 +10,7 @@ The whole project has these parts.
 2. Lidar: Livox avia
 3. Soilsensor
 
-## (硬件部分)[https://github.com/SUSTech-Gardener/3d-solidworks]
+## [硬件部分](https://github.com/SUSTech-Gardener/3d-solidworks)
 1. 履带车
 2. 喷头控制
 3. 车辆架子
