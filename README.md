@@ -3,6 +3,12 @@
 
 The main repository of [SUSTech-Gardener](https://github.com/SUSTech-Gardener), which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
 
+![image-20210606134722046](https://raw.githubusercontent.com/zhuhu00/img/master/20210606134730.png)
+
+![image-20210606134850746](https://raw.githubusercontent.com/zhuhu00/img/master/20210606134854.png)
+
+![image-20210606134529791](https://raw.githubusercontent.com/zhuhu00/img/master/20210606134534.png)
+
 The whole project has these parts. 
 
 ## Sensors
