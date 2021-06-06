@@ -2,7 +2,8 @@
 ## Gardener for agricultural!!!
 
 The main repository of [SUSTech-Gardener](https://github.com/SUSTech-Gardener), which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GjDMmWxaL50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![【SDM5002 Course Project】Gardener: An Autonomous Agricultural Car.](https://res.cloudinary.com/marcomontalbano/image/upload/v1622979488/video_to_markdown/images/youtube--GjDMmWxaL50-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GjDMmWxaL50 "【SDM5002 Course Project】Gardener: An Autonomous Agricultural Car.")
 
 ![image-20210606134722046](https://raw.githubusercontent.com/zhuhu00/img/master/20210606134730.png)
 
