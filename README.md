@@ -6,8 +6,6 @@ The main repository of [SUSTech-Gardener](https://github.com/SUSTech-Gardener), 
 
 [![【SDM5002 Course Project】Gardener: An Autonomous Agricultural Car.](https://res.cloudinary.com/marcomontalbano/image/upload/v1622979488/video_to_markdown/images/youtube--GjDMmWxaL50-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 
-[![Watch the video](https://raw.githubusercontent.com/zhuhu00/img/master/20210607141359.png)](https://youtu.be/GjDMmWxaL50)
-
 <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134730.png" alt="image-20210606134722046" style="zoom: 12%;" /> <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134854.png" alt="image-20210606134850746" style="zoom:12%;" />
 
 <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134534.png" alt="image-20210606134529791" style="zoom:100%;" />
@@ -75,7 +73,7 @@ Follow other repository in this project.
 
 ## Developers:
 
-- https://github.com/RiggsChiang: Mechanical design, electrical selection and layout, video clip
+- [Shixing Jiang](https://github.com/RiggsChiang): Mechanical design, electrical selection and layout, video clip
 - [Qiaowen Wang](https://github.com/linghushaoxia-wqw): Mechanical design and tracking trolley control
 - [Haibiao Chen](https://github.com/Billchan9711): electrical design and implementation, embedded system construction
 - [Hu Zhu](https://github.com/zhuhu00): YOLO V3 for weed detection, coordination between components
